@@ -4,7 +4,7 @@
 
 Welcome to the **Portfolio Responsive Complete** project! This is a clean and elegant web portfolio designed for designers and developers. It includes all the essential sections you need to showcase your work and skills effectively.
 
-![Portfolio Preview](https://github.com/tinomazorodze/zim-dev-portfolio/blob/main/assets/site-screenshot.webp) <!-- Replace with an actual screenshot of your portfolio -->
+![Portfolio Preview](https://github.com/tinomazorodze/tinomazorodze.github.io/blob/main/assets/site-screenshot.webp) <!-- Replace with an actual screenshot of your portfolio -->
 
 ### 📝 Features
 
