@@ -29,7 +29,7 @@ This project aims to provide a comprehensive and visually appealing portfolio te
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/tinomazorodze/zim-dev-portfolio.git
+   git clone https://github.com/tinomazorodze/tinomazorodze.github.io.git
    ```
 2. Open the project in your favorite code editor.
 3. Customize the content in `index.html`, `styles.css`, and `script.js`.
